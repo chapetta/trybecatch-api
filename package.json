@@ -14,5 +14,9 @@
   "type": "commonjs",
   "devDependencies": {
     "nodemon": "2.0.15"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "mysql2": "3.0.0"
   }
 }
